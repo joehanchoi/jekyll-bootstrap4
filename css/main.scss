@@ -3,3 +3,21 @@
 
 @import "variables";
 @import "bootstrap/scss/bootstrap";
+
+@media (min-width: 1200px) { 
+  .content {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 992px) { 
+  .content {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) { 
+  .content {
+    max-width: 540px;
+  }
+}
